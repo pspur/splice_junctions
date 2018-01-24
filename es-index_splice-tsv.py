@@ -53,10 +53,10 @@ def set_data(index_name,type_name,input_tsv):
 
 
 def main():
-    hostname = '199.109.195.2'
+    hostname = 'xxx.xxx.xx.x'
     port = '9200'
-    index_name = 'empiregen_splice'
-    type_name = 'empiregen_splice'
+    index_name = 'xxxxxxxxxxxxxxxxx'
+    type_name = 'xxxxxxxxxxxxxxxxx'
     input_tsv = 'splices.tsv'
 
     total_start = timer()
